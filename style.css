@@ -1,0 +1,19 @@
+ 
+  
+ .box{
+    border: 1px solid rgb(200, 194, 194);
+    width:200px;
+    border-radius:14px;
+    margin:50px auto;
+    font-family: 'sans-serif';
+ }
+
+ .box-img{
+    width:100%;
+    border-top-left-radius:14px ;
+    border-top-right-radius: 14px;
+    }
+
+.box-body{
+padding:6px;
+}
