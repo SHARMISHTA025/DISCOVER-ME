@@ -19,7 +19,7 @@ width: 100px;
     
 }
 .logo{
-background-image: url("amazon_logo.png");
+background-image: url("Amazon_clone\Amazon_images\amazon_logo.png");
 background-size: cover;
 height:50px;
 width: 100%;
@@ -116,7 +116,7 @@ padding:5px;
 }
 
 .flag-img{
-background-image: url("flag.png");
+background-image: url("Amazon_clone\Amazon_images\flag.png");
 background-size: cover;
 width:23.2px;
 height:16.2px;
@@ -239,7 +239,7 @@ padding:7px;
 }
 
 .bag{
-background-image: url("amazon_bag.jpeg");
+background-image: url("Amazon_clone\Amazon_images\amazon_bag.jpeg");
 background-size : cover;
 width:26px;
 height:18px;
@@ -247,7 +247,7 @@ height:18px;
 }
 
 .header2{
-background-image: url("header2-bg-img.jpg");
+background-image: url("Amazon_clone\Amazon_images\header2-bg-img.jpg");
 height: 253.5px;
 width:1007.5px;
 background-size: cover;
@@ -484,7 +484,7 @@ justify-content: center;
 }
 
 .logo-final{
-background-image: url("amazon_logo.png");
+background-image: url("Amazon_clone\Amazon_images\amazon_logo.png");
 background-size: cover;
 width: 102px;
 height:52px;
